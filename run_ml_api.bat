@@ -1,0 +1,1 @@
+conda activate tf & uvicorn ml_api:app --reload
