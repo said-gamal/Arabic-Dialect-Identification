@@ -106,6 +106,11 @@ def remove_tashkeel(text):
 - Using `TF-IDF` for feature extraction.
 - Using `Logistic Regression` for classification.
 - Implementation in `machine_learning_model.ipynb` notebook.
+## Deep learning approach
+
+- Using keras `Tokenizer` and `pad_sequences` to represent the input text.
+- Implement `Bidirectional LSTM` model.
+- Implementation in `deep_learning_model.ipynb` notebook.
 ## Deployment
 
 - Using `FastAPI` to deploy our model.
