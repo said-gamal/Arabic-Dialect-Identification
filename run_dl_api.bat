@@ -1,0 +1,1 @@
+conda activate tf & uvicorn dl_api:app --reload
